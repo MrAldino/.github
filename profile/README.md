@@ -16,5 +16,3 @@ Website digital untuk Al-Qur'an dan kebutuhan ibadah sehari-hari.
 🌐 Kunjungi Website
 
 https://aldino.my.id
-
-© 2026 MrAldino
