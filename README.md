@@ -1,6 +1,6 @@
 MrAldino
 
-🌐 Website: "aldino.my.id" (https://aldino.my.id)
+🌐 Website: "KitabKu.Online" (https://KitabKu.Online)
 
 📖 Al-Qur'an Digital
 
@@ -12,9 +12,10 @@ Website digital untuk Al-Qur'an dan kebutuhan ibadah sehari-hari.
 - 🌙 Puasa
 - 🤍 Dzikir Pagi
 - 🌆 Dzikir Petang
-
+- 📢 Pasang Iklan DiWeb
+- 
 🌐 Kunjungi Website
 
-👉 "aldino.my.id" (https://aldino.my.id)
+👉 "KitabKu.Online" (https://KitabKu.Online)
 
-© 2026 MrAldino
+© 2026 MrAldino Web.Dev
