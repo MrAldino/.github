@@ -1,6 +1,6 @@
 Aldino
 
-🌐 Website: https://aldino.my.id
+🌐 Website: https://KitabKu.Online
 
 📖 Al-Qur'an Digital
 
@@ -15,4 +15,4 @@ Website digital untuk Al-Qur'an dan kebutuhan ibadah sehari-hari.
 
 🌐 Kunjungi Website
 
-https://aldino.my.id
+https://KitabKu.Online
